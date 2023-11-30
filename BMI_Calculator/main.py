@@ -20,4 +20,4 @@ elif bmi > 29.9 and bmi <= 34.9:
 elif bmi > 34.9 and bmi <= 39.9:
     print(f"Your BMI is {round(bmi, 2)}, you are obese II.")
 else:
-    print(f"Your BMI is {round(bmi, 2)}, you are morbidly obese1.")
+    print(f"Your BMI is {round(bmi, 2)}, you are morbidly obese.")
